@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52586657383",
+    "project_id": "rakna-132bc",
+    "storage_bucket": "rakna-132bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52586657383:android:caf3147da2fdb24aafc6c2",
+        "android_client_info": {
+          "package_name": "com.garage.rakna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52586657383-85iqoche17amohgj3bi9aprtv4lipsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwQsb9xJXE-N8a2s2srpsVWDDKuBpdlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52586657383-85iqoche17amohgj3bi9aprtv4lipsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
